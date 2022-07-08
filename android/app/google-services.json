@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "932053210601",
+    "project_id": "sgarikapati-cmsc5303-mobileapp",
+    "storage_bucket": "sgarikapati-cmsc5303-mobileapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932053210601:android:6873847ca04f2ccad46778",
+        "android_client_info": {
+          "package_name": "edu.uco.sgarikapati.cmsc5303.lesson3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932053210601-chmstl9bafkt1ta646s0jjjloijca24n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFlVWa0u3tkWmq2xOovhcLkYgZWQDRQJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932053210601-chmstl9bafkt1ta646s0jjjloijca24n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
